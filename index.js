@@ -64,7 +64,7 @@ app.get('/', (req, res) => {
           <p style="
             font-size: 1.2rem;
             margin: 20px 0;
-          ">API DOCUMENTATION URL: <a href="https://documenter.getpostman.com/view/36384038/2sA3kSo3QN" target="_blank" style="
+          ">API DOCUMENTATION URL: <a href="https://documenter.getpostman.com/view/37178641/2sA3kXDzt5#0b0b6aad-e8d9-42e3-ad13-dcffe4bbad19" target="_blank" style="
             color: #3498db;
             text-decoration: none;
             font-weight: bold;
